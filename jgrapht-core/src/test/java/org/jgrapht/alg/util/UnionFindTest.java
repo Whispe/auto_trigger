@@ -49,6 +49,10 @@ public class UnionFindTest
 {
     //~ Methods ----------------------------------------------------------------
 
+    public void failing() {
+        assertTrue(false);
+    }
+
     /**
      * .
      */
